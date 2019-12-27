@@ -11,6 +11,13 @@ Please see the manual EBPRS-manual-2.0.0.pdf for the detailed description and in
 devtools::install_github("shuangsong0110/EBPRS")
 ```
 
+If there are connection problems, such as "Error in utils", users could download the .zip file to the local and use 
+```
+devtools::install_github("/$path$/EBPRS-master/EBPRS-master")
+```
+to solve the problem.
+
+
 ## References
 Song, S., Jiang, W., Hou, L. and Zhao, H. (2019). Leveraging effect size distributions to improve polygenic risk scores derived from genome-wide association studies. PLoS Compuational Biology.
 
