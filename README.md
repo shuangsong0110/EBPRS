@@ -4,7 +4,7 @@ EB-PRS is a novel method that leverages information for effect sizes across all 
 ## Version
 2.0.0
 
-Please see the manual EBPRS-manual-2.0.0.pdf for detailed description of the package.
+Please see the manual EBPRS-manual-2.0.0.pdf for the detailed description and instructions aboout the package.
 
 ## Install
 ```
@@ -12,7 +12,7 @@ devtools::install_github("shuangsong0110/EBPRS")
 ```
 
 ## References
-Song, S., Jiang, W., Hou, L. and Zhao, H. (2019). Leveraging effect size distributions to improve polygenic risk scores derived from genome-wide association studies. \emph{PLoS Compuational Biology}.
+Song, S., Jiang, W., Hou, L. and Zhao, H. (2019). Leveraging effect size distributions to improve polygenic risk scores derived from genome-wide association studies. PLoS Compuational Biology.
 
 ## License
 GPL-3
